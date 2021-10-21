@@ -2,7 +2,7 @@
 widget: hero
 widget_id: RECENT-POSTS
 headless: true
-weight: 10
+weight: 60
 title: DEB.C Lab
 hero_media: welcome.jpg
 design:
