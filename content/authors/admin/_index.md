@@ -9,31 +9,25 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=IKmt5CkAAAAJ&hl=en&oi=ao
+  - icon: ResearchGate
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Chirag-Deb
 organizations:
   - name: IIT Bombay
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Automated Building Energy Auditing
+      institution: National University of Singapore
+      year: 2017
+    - course: MS (by research) in Building Technology
+      institution: Indian Institute of Technology Madras
+      year: 2010
+    - course: Bachelor of Architecture
+      institution: National Institute of Technology Trichy
       year: 2008
 email: ""
 superuser: true
