@@ -6,7 +6,7 @@ weight: 60
 title: DEB.C Lab
 hero_media: welcome.jpg
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:
