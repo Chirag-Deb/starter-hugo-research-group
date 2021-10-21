@@ -5,10 +5,10 @@ avatar_filename: chirag_pic2.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Data
+  - Energy
   - Buildings
   - Cities
-  - Energy
-  - Data
 social:
   - icon: google-scholar
     icon_pack: ai
