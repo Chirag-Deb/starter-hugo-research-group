@@ -21,7 +21,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Automated Building Energy Auditing
+    - course: PhD in Automated Energy Auditing
       institution: National University of Singapore
       year: 2017
     - course: MS (by research) in Building Technology
